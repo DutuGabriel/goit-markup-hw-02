@@ -14,7 +14,7 @@ body {
   color: #4d5ae5;
 }
 
-.logo2 {
+.logo-2 {
   color: #2e2f42;
 }
 
@@ -84,6 +84,10 @@ body {
   background-color: #404bbf;
 }
 
+.element-photo {
+  background-color: #ffffff;
+}
+
 .element-title {
   font-weight: 500;
   font-size: 20px;
@@ -117,7 +121,7 @@ footer {
   background-color: #2e2f42;
 }
 
-.logo3 {
+.logo-3 {
   color: #f4f4fd;
 }
 
