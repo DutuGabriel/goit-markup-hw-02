@@ -84,7 +84,7 @@ body {
   background-color: #404bbf;
 }
 
-.element-photo {
+.section-three {
   background-color: #ffffff;
 }
 
@@ -101,10 +101,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.section-three {
-  background-color: #f4f4fd;
 }
 
 .section-title {
@@ -129,4 +125,14 @@ footer {
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
