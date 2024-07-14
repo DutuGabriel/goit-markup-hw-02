@@ -4,42 +4,6 @@ body {
   background-color: #ffffff;
 }
 
-.info:hover {
-  color: #4d5ae5;
-}
-
-.tel:hover {
-  color: #4d5ae5;
-}
-
-.orderbutton:hover {
-  color: #4d5ae5;
-}
-
-.info {
-  color: #8e8f99;
-}
-
-.tel {
-  color: #8e8f99;
-}
-
-.orderbutton {
-  color: #404bbf;
-}
-
-p {
-  font-size: 16px;
-}
-
-h2 {
-  font-size: 36px;
-}
-
-h3 {
-  font-size: 20px;
-}
-
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -54,10 +18,82 @@ h3 {
   color: #2e2f42;
 }
 
-.menu link {
+.header-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.header-link:hover {
+  color: #404bbf;
+}
+
+.header-link:focus {
+  color: #404bbf;
+}
+
+.address {
+  font-style: normal;
+}
+
+.adress-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.adress-link:hover {
+  color: #404bbf;
+}
+
+.adress-link:focus {
+  color: #404bbf;
+}
+
+.section-one {
+  background-color: #2e2f42;
+}
+
+.first-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.orderbutton {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.orderbutton:hover {
+  background-color: #404bbf;
+}
+
+.orderbutton:focus {
+  background-color: #404bbf;
+}
+
+.element-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.element-paragraph {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
