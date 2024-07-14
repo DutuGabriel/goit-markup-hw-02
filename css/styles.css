@@ -1,0 +1,40 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+}
+
+.info:hover {
+  color: #4d5ae5;
+}
+
+.tel:hover {
+  color: #4d5ae5;
+}
+
+.orderbutton:hover {
+  color: #4d5ae5;
+}
+
+.info {
+  color: #8e8f99;
+}
+
+.tel {
+  color: #8e8f99;
+}
+
+.orderbutton {
+  color: #404bbf;
+}
+
+p {
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 20px;
+}
